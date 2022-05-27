@@ -1,5 +1,5 @@
-#Capitulo 1
-##MONDONGO
+# Capitulo 1
+## MONDONGO
 
-	Era un domingo en la tarde, Juanito el _Golondrina_ se encontraba de parranda.
+	Era un domingo en la tarde, Juanito el _ Golondrina _ se encontraba de parranda.
 ![cosa]()
